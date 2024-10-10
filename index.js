@@ -19,13 +19,6 @@ loginBtn.addEventListener('click', function(){
 const depositBtn = document.getElementById("add-deposit");
 depositBtn.addEventListener('click', function(){
 
-    // const loginArea = document.getElementById("login-area");
-    // loginArea.style.display = "block";
-
-    // const depositArea = document.getElementById("deposit-area");
-    // depositArea.style.display = "none"
-
-
     const depositAmount = document.getElementById("deposit-amount").value;
     const depositNumber = parseFloat(depositAmount);
 

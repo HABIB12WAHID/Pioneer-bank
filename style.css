@@ -62,9 +62,6 @@ body {
 #transaction-area {
     display: none;
 }
-/* #deposit-area {
-    display: none;
-} */
 
 .deposit {
     background-color: slateblue;
