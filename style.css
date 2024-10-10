@@ -1,0 +1,85 @@
+body {
+    padding: 100px;
+}
+.container {
+    margin: 0 auto;
+    box-shadow: -1px 2px 4px 3px rgba(185, 176, 176, 0.687);
+    background-color: rgba(128, 128, 128, 0.505);
+    border-radius: 7px;
+    padding: 25px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.submit-area {
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    box-shadow: -2px 0px 5px 6px rgba(0, 0, 0, 0.726);
+}
+
+.submit-area input {
+    padding: 12px;
+    width: 100%;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.deposit button {
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 2px 2px rgba(203, 228, 148, 0.726);
+    font-size: 19px;
+    text-shadow: 0px 0px 2px 3px rgba(236, 140, 207, 0.726);
+}
+
+.withdraw button {
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 2px 2px rgba(203, 228, 148, 0.726);
+    font-size: 19px;
+    text-shadow: 0px 0px 2px 3px rgba(236, 140, 207, 0.726);
+}
+.status {
+    margin: 0px 20px;
+    color: white;
+    padding: 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+#transaction-area {
+    display: none;
+}
+/* #deposit-area {
+    display: none;
+} */
+
+.deposit {
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance {
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
