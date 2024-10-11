@@ -22,6 +22,22 @@ body {
     -o-border-radius: 12px;
     box-shadow: -2px 0px 5px 6px rgba(0, 0, 0, 0.726);
 }
+.login-title {
+    text-align: center;
+    color: rgba(72, 55, 230, 0.907);
+    font-weight: bold;
+    font-size: 35px;
+    font-family: 'Times new roman', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: -1px 5px 9px 8px rgba(220, 156, 221, 0.726);
+}
+
+#login-area .submit-area button {
+    width: 20%;
+}
+
+#login {
+    text-align: center;
+}
 
 .submit-area input {
     padding: 12px;
